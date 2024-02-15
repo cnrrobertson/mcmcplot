@@ -6,7 +6,7 @@ Created on Mon May 14 06:24:12 2018
 @author: prmiles
 """
 import numpy as np
-from scipy import pi, sin, cos
+from numpy import pi, sin, cos
 import sys
 import math
 
